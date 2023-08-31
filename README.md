@@ -1,6 +1,8 @@
 # Johan Süld
 I'm an AI & ML Student at ITHS which I applied to due to my strong interest in Data and Statistics. I have over 10 years of experience in different Data Analytic roles, and a Bachelor degree in Statistics with System Science focus.
 
+The portfolio below will in time be fleshed out with real and relevant projects, at the moment it consists of placeholders.
+
 ## GitHub Portfolio
 | Repo                           | Description                                                              |
 | ------------------------------ | ------------------------------------------------------------------------ |
