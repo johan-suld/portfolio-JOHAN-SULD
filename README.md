@@ -6,11 +6,11 @@ The portfolio below will in time be fleshed out with real and relevant projects,
 ## GitHub Portfolio
 | Repo                           | Description                                                              |
 | ------------------------------ | ------------------------------------------------------------------------ |
-| [Repo a][a]   | Work in progress...                           |
-| [Repo b][b]            | Work in progress...     |
-| [Repo c][c]         | Work in progress... 
+| [Python][a]                     | Python exercises                           |
+| [Repo b][b]                      | Work in progress...     |
+| [Repo c][c]                     | Work in progress... 
 
-[a]: https://github.com/
+[a]: https://github.com/johan-suld/Python_johan_suld/tree/main/Exercises
 [b]: https://github.com/
 [c]: https://github.com/
 
