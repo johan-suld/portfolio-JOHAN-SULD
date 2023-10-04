@@ -4,7 +4,7 @@ I'm an AI & ML Student at ITHS which I applied to due to my strong interest in D
 ## GitHub Portfolio
 | Repo                           | Description                                                              |
 | ------------------------------ | ------------------------------------------------------------------------ |
-| [Python][a]                     | Exercises and labs related to the course "Programmering med Python".                           |
+| [Python course][a]                     | Exercises and labs related to the course "Programmering med Python".                           |
 | [NLP with TF-IDF and NB][b]                      | Based on written reviews, determine what's important for someone when it comes to recommending a PC-game to others.     |
 | [API-data to SQL DB][c]                     | Scheduled script to get text data from news articles through API and insert the data into an SQL-table. 
 
